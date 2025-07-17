@@ -14,15 +14,15 @@ while True:
     inp = input(">>")
     if inp == 'rice':
         hunger += 1
-        f.clear()
+        fu.clear()
     if inp == 'toy':
         happy += 1
-        f.clear()
+        fu.clear()
     if hunger == 6:
         print("FULL!")
         hunger = 5
-        f.clear()
+        fu.clear()
     if happy == 6:
         print("HAPPY!")
         happy = 5
-        f.clear()
+        fu.clear()
