@@ -2,7 +2,7 @@
 # makipet © 2025 by progman.task(MakiDevelops) is licensed under CC BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Imports
-import time, os, glob, f
+import time, os, glob, fu
 # Vars
 pet = "[o]"
 hunger = 1
