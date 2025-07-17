@@ -9,6 +9,16 @@
 # makipet
 A virtual pet program made in Python.
 
+## Pets
+
+This is a list of the pets included:
+
+- [o] = Lil'
+- [:P] = Peh
+- [:/] = Eh
+- [-:P-] = Ehletta
+- [-:/-] = Lelena
+
 ## Stages
 Your virtual pet goes through stages!<br/>
 
