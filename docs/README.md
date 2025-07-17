@@ -7,4 +7,11 @@
 >them in Issues
 
 # makipet
-A virtual pet program made in Python
+A virtual pet program made in Python.
+
+## Stages
+Your virtual pet goes through stages!<br/>
+
+- Baby stage = [o]
+- Teenager phase = [:P]
+- Adult phase = [-:P-]
